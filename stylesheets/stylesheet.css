@@ -68,11 +68,9 @@ a {
   padding:5px;
   float:left;
   width:260px;
-  height:380px;
-  background-color:yellow;
-  color:#000;
-  border-right:2px solid #212121;
-  text-align: center;
+  height:100%;
+ color:#000;
+ text-align: center;
 }
 @media screen and (min-width: 64em) {
   .page-header {
