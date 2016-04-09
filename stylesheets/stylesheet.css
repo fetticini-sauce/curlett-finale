@@ -57,7 +57,10 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: url(jumbo-header.jpg); }
+  background: url(jumbo-header.jpg); 
+  background-postion: center;
+  background-repeat: no-repeat;
+}
 
 @media screen and (min-width: 64em) {
   .page-header {
