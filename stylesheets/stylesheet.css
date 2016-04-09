@@ -56,8 +56,8 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
- 
-  background-image: url(jumbo-header.jpg); 
+  background-color: #159957;
+  background-image: url(../jumbo-header.jpg); 
   background-postion: center;
   background-repeat: no-repeat;
 }
