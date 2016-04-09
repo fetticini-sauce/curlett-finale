@@ -59,6 +59,7 @@ a {
   background-color: #159957;
   background-image: url(../jumbo-header.jpg); 
   background-postion: center;
+  height:100%;
   background-repeat: no-repeat;
 }
 
