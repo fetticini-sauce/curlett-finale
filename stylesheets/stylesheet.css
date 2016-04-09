@@ -57,7 +57,7 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background: url(jumbo-header.jpg); 
+  background-image: url(jumbo-header.jpg); 
   background-postion: center;
   background-repeat: no-repeat;
 }
