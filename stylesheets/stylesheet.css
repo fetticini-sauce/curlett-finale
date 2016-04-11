@@ -92,6 +92,14 @@ p.caption{
   height:391px;
   color:#000;
   }
+  .container{
+    margin:;
+    padding:;
+    }
+    .row{
+      margin:;
+      
+    }
 @media screen and (min-width: 64em) {
   .page-header {
     padding: 5rem 6rem; } }
