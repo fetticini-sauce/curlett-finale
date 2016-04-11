@@ -62,7 +62,7 @@ a {
   height:804px;
   background-repeat: no-repeat;
 }
-h3.caption {
+h3 {
    text-align:center;
    font-weight:bold;
    color:#f00;
@@ -95,10 +95,12 @@ p.caption{
   .container{
     margin:0px;
     padding:0px;
+    max-width: 100%;
     }
     .row{
       margin:5px;
       padding: 5px;
+      width: auto;
     }
     
 @media screen and (min-width: 64em) {
