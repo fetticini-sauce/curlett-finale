@@ -62,10 +62,10 @@ a {
   height:804px;
   background-repeat: no-repeat;
 }
-.caption h3 {
+h3.caption {
    text-align:center;
    font-weight:bold;
-   
+   color:#f00;
    
 }
 p.caption{
@@ -88,18 +88,19 @@ p.caption{
   margin:10px 0 10px 5px;
   padding:5px;
   float:left;
-  width:450px;
+  width:500px;
   height:391px;
   color:#000;
   }
   .container{
-    margin:;
-    padding:;
+    margin:0px;
+    padding:0px;
     }
     .row{
-      margin:;
-      
+      margin:5px;
+      padding: 5px;
     }
+    
 @media screen and (min-width: 64em) {
   .page-header {
     padding: 5rem 6rem; } }
