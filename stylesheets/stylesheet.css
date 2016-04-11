@@ -93,7 +93,7 @@ p.caption{
   color:#000;
   }
   .container{
-    margin:0px;
+    margin-bottom:15px;
     padding:0px;
     max-width: 100%;
     }
