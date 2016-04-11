@@ -67,7 +67,17 @@ a {
   margin:10px 0 10px 5px;
   padding:5px;
   float:left;
-  width:280px;
+  width:285px;
+  height:100%;
+ color:#000;
+ text-align: center;
+}
+
+.caption-1 {
+  margin:10px 0 10px 5px;
+  padding:5px;
+  float:left;
+  width:550px;
   height:100%;
  color:#000;
  text-align: center;
