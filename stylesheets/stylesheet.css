@@ -59,6 +59,7 @@ a {
   background-color: #159957;
   background-image: url(../jumbo-header.jpg); 
   background-postion: center;
+  width:100%;
   height:auto;
   background-repeat: no-repeat;
 }
@@ -101,7 +102,7 @@ div.img img {
 }
 
 div.desc {
-    padding: 15px;
+    padding: 10px;
     text-align: center;
     color:#f00;
 }
@@ -111,7 +112,7 @@ div.desc {
 }
 
 .responsive {
-    padding: 0 6px;
+    padding: 10px 6px;
     float: left;
     width: 24.99999%;
 }  
