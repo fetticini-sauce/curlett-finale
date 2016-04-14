@@ -59,7 +59,7 @@ a {
   background-color: #159957;
   background-image: url(../jumbo-header.jpg); 
   background-postion: center;
-  max-width:1080px;
+  max-width:100%;
   height:504px;
   background-repeat: no-repeat;
 }
