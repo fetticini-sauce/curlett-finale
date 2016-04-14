@@ -59,39 +59,24 @@ a {
   background-color: #159957;
   background-image: url(../jumbo-header.jpg); 
   background-postion: center;
-  height:804px;
+  height:auto;
   background-repeat: no-repeat;
 }
 h3 {
-   text-align:center;
+   text-align:left;
    font-weight:bold;
    color:#f00;
    
 }
 p.caption{
+  margin:5px;
+  padding:3px;
   text-align:left;
   font-weight:normal;
   font-family:arial;
   font-height:20px;
 } 
   
-.caption {
-  margin:10px 0 10px 5px;
-  padding:5px;
-  float:left;
-  width:300px;
-  height:300px;
-  text-align: center;
-}
-
-.caption-1 {
-  margin:0px 0 50px 5px;
-  padding:5px;
-  float:left;
-  width:500px;
-  height:300px;
-  color:#000;
-  }
   .container{
     margin-bottom:15px;
     padding:0px;
