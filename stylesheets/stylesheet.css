@@ -59,8 +59,9 @@ a {
   background-color: #159957;
   background-image: url(../jumbo-header.jpg); 
   background-postion: center;
- max-width:1080px;
- background-repeat: no-repeat;
+  max-width:1080px;
+  height:504px;
+  background-repeat: no-repeat;
 }
 h3 {
    text-align:left;
